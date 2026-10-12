@@ -39,12 +39,12 @@
         base {
             display-name = "BASE";
             bindings = <
-&gresc  &kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp NON_US_BACKSLASH  &kp BSPC  &kp TAB  &mt LCTRL A  &mt LEFT_ALT R  &mt LEFT_COMMAND S  &mt LEFT_SHIFT T  &kp D  &kp H  &mt LEFT_SHIFT N  &mt LEFT_COMMAND E  &mt LEFT_ALT I  &mt LCTRL O  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC  &kp LEFT_ALT  &mo 1  &mt LEFT_COMMAND SPACE  &mt LEFT_SHIFT ENTER  &lt 3 BACKSPACE  &kp GRAVE
+&gresc  &kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp NON_US_BACKSLASH  &kp BSPC  &kp TAB  &mt LCTRL A  &mt LEFT_ALT R  &mt LEFT_COMMAND S  &mt LEFT_SHIFT T  &kp D  &kp H  &mt LEFT_SHIFT N  &mt LEFT_COMMAND E  &mt LEFT_ALT I  &mt LCTRL O  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC  &kp LEFT_ALT  &mo 2  &mt LEFT_COMMAND SPACE  &mt LEFT_SHIFT ENTER  &lt 1 BACKSPACE  &kp GRAVE
             >;
         };
 
         sym {
-            display-name = "SYM";
+            display-name = "NUM";
             bindings = <
 &kp AMPERSAND  &kp ASTERISK  &kp AT  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp CARET  &kp N7  &kp N8  &kp N9  &kp AMPERSAND  &kp BSPC  &kp LCTRL  &kp EXCLAMATION  &kp UNDERSCORE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &mt COLON SEMICOLON  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp N0  &kp GRAVE  &kp LSHFT  &kp LCTRL  &kp PERCENT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp SQT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &mt F12 PERIOD  &kp ESCAPE  &kp BACKSPACE  &trans  &kp SPACE  &kp RET  &trans  &kp N0
             >;
@@ -58,7 +58,7 @@
         };
 
         adj {
-            display-name = "ADJ";
+            display-name = "SYS";
             bindings = <
 &bt BT_CLR  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp K_VOL_UP  &out OUT_BLE  &kp F7  &kp F8  &kp F9  &none  &none  &sys_reset  &none  &none  &none  &none  &kp K_VOLUME_DOWN  &out OUT_USB  &kp F4  &kp F5  &kp F6  &none  &sys_reset  &bootloader  &none  &none  &none  &none  &kp K_MUTE  &studio_unlock  &kp F1  &kp F2  &kp F3  &none  &bootloader  &none  &none  &none  &none  &none  &none
             >;
