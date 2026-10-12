@@ -60,7 +60,7 @@
         sym {
             display-name = "NUM";
             bindings = <
-&kp AMPERSAND  &kp ASTERISK  &kp AT  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp CARET  &kp N7  &kp N8  &kp N9  &kp AMPERSAND  &kp BSPC  &kp LCTRL  &kp EXCLAMATION  &kp UNDERSCORE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &mt SEMICOLON COLON  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp N0  &kp GRAVE  &kp LSHFT  &kp LCTRL  &kp PERCENT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp SQT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &mt F12 PERIOD  &kp ESCAPE  &kp BACKSPACE  &trans  &kp SPACE  &kp RET  &trans  &kp N0
+&kp AMPERSAND  &kp ASTERISK  &kp AT  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp CARET  &kp N7  &kp N8  &kp N9  &kp AMPERSAND  &kp BSPC  &kp LCTRL  &kp EXCLAMATION  &kp UNDERSCORE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &mt SEMICOLON COLON  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp N0  &kp GRAVE  &kp LSHFT  &kp LCTRL  &kp PERCENT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp SQT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &mt F12 PERIOD  &kp ESCAPE  &kp DEL  &trans  &kp SPACE  &kp RET  &trans  &kp N0
             >;
         };
 
