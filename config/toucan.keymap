@@ -60,14 +60,14 @@
         sym {
             display-name = "NUM";
             bindings = <
-&kp AMPERSAND  &kp ASTERISK  &kp AT  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp DOUBLE_QUOTES  &kp N7  &kp N8  &kp N9  &kp AMPERSAND  &kp BSPC  &kp LCTRL  &kp EXCLAMATION  &kp UNDERSCORE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &mt SEMICOLON COLON  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp N0  &kp GRAVE  &kp LSHFT  &kp LCTRL  &kp PERCENT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp SQT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &mt F12 PERIOD  &kp ESCAPE  &kp DEL  &trans  &kp SPACE  &kp RET  &trans  &kp N0
+&kp AMPERSAND  &kp ASTERISK  &kp AT  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp DOUBLE_QUOTES  &kp N7  &kp N8  &kp N9  &kp AMPERSAND  &kp BSPC  &kp HASH  &kp EXCLAMATION  &kp UNDERSCORE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &mt SEMICOLON COLON  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp N0  &kp GRAVE  &kp LSHFT  &kp LCTRL  &kp PERCENT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp SQT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &mt F12 PERIOD  &kp ESCAPE  &kp DEL  &trans  &kp SPACE  &kp RET  &trans  &kp N0
             >;
         };
 
         nav {
             display-name = "NAV";
             bindings = <
-&kp TAB  &kp LG(LC(Q))  &kp LA(LC(D))  &kp LA(LC(F))  &kp LA(LC(G))  &kp C_VOLUME_UP  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PG_UP  &kp PAGE_DOWN  &kp LA(NUMBER_6)  &kp LA(N7)  &kp LA(LC(ENTER))  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &kp C_VOL_DN  &kp LEFT  &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &kp LA(N5)  &trans  &trans  &trans  &trans  &kp LC(LA(D))  &kp K_MUTE  &kp UP_ARROW  &kp C_PREV  &kp C_PP  &kp C_NEXT  &kp LS(NUMBER_3)  &kp LG(LS(NUMBER_4))  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
+&kp TAB  &kp LG(LC(Q))  &kp LA(LC(D))  &kp LA(LC(F))  &kp LA(LC(G))  &kp C_VOLUME_UP  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LA(NUMBER_6)  &kp LA(N7)  &kp LA(N8)  &kp LA(N9)  &kp LA(LC(ENTER))  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &kp C_VOL_DN  &kp LEFT  &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &kp LA(N5)  &trans  &trans  &trans  &trans  &kp LC(LA(D))  &kp K_MUTE  &kp UP_ARROW  &kp C_PREV  &kp C_PP  &kp C_NEXT  &kp LS(NUMBER_3)  &kp LG(LS(NUMBER_4))  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
             >;
         };
 
