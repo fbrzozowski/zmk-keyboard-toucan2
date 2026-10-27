@@ -53,7 +53,7 @@
         base {
             display-name = "BASE";
             bindings = <
-&gresc  &kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp NON_US_BACKSLASH  &kp BSPC  &kp TAB  &mt LCTRL A  &mt LEFT_ALT R  &mt LEFT_COMMAND S  &mt LEFT_SHIFT T  &kp D  &kp H  &mt LEFT_SHIFT N  &mt LEFT_COMMAND E  &mt LEFT_ALT I  &mt LCTRL O  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC  &kp LEFT_ALT  &mo 2  &mt LEFT_COMMAND SPACE  &mt LEFT_SHIFT ENTER  &lt 1 BACKSPACE  &kp GRAVE
+&gresc  &kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp BACKSLASH  &kp BSPC  &kp TAB  &mt LCTRL A  &mt LEFT_ALT R  &mt LEFT_COMMAND S  &mt LEFT_SHIFT T  &kp D  &kp H  &mt LEFT_SHIFT N  &mt LEFT_COMMAND E  &mt LEFT_ALT I  &mt LCTRL O  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC  &kp LEFT_ALT  &mo 2  &mt LEFT_COMMAND SPACE  &mt LEFT_SHIFT ENTER  &lt 1 BACKSPACE  &kp GRAVE
             >;
         };
 
